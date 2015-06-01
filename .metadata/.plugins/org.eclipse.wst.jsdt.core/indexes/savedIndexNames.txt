@@ -1,5 +1,2 @@
 INDEX VERSION 1.122+D:\Documents\GitHub\teaching\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3822629956.index
-268244503.index
-3373412510.index
-3577694520.index
+4106015156.index
