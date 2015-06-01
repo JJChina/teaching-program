@@ -1,0 +1,15 @@
+INDEX VERSION 1.126+D:\Documents\GitHub\teaching\.metadata\.plugins\org.eclipse.jdt.core
+510018097.index
+1413497642.index
+3355572144.index
+1790742063.index
+2709268562.index
+3679625244.index
+268244503.index
+2534247781.index
+566522158.index
+12586605.index
+3016440122.index
+1648548763.index
+3751485364.index
+3004260807.index
